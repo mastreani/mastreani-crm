@@ -1,0 +1,3 @@
+[functions.mastreani-google-calendar]
+# The function validates the Supabase user JWT with auth.getUser() itself.
+verify_jwt = false
